@@ -5,7 +5,8 @@ This repository contains notes and starter code for Bit manipulation and mathema
 ## Topics to be covered :
 
 View the list at -> https://docs.google.com/document/d/1W0GUTM3uBY2wt5pu1eRxmHKytSndcFpVoxdujh0gdhs/edit?usp=sharing
-Bit manipulation -
+
+### Bit manipulation -
 
 1. Converting a number to binary
 2. Bitwise operators introduction
@@ -14,7 +15,7 @@ Bit manipulation -
 5. Find the number occuring odd number of times
 6. Position of first right bit
 
-Mathematics -
+#### Mathematics -
 
 1. Euclidean algorithm (GCD)
 2. LCM
