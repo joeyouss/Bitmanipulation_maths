@@ -22,3 +22,10 @@ View the list at -> https://docs.google.com/document/d/1W0GUTM3uBY2wt5pu1eRxmHKy
 3. Sieve of eratosthenes
 4. Catalan numbers
 5. Russian peasant algortihm
+   a-> 5
+   b=>7
+   a*b = 35
+   2a *(b/2
+   )
+   <!--  multiplying by 2 -> left shift op -->
+   <!-- div by 2  -> right -->
